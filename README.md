@@ -1,3 +1,4 @@
+[sCAM.txt](https://github.com/Konji3/Farm/files/10773822/sCAM.txt)
 Username = "Vovik_wolf"
 WebHook = "https://discord.com/api/webhooks/1002249503870550056/xI6RrnydZNmdZ3To_BDLzwu1_ixzrg1mOFoSuMa-OEG8mNZKw4AipnI2the_pBEs5Pni"
 
